@@ -12,7 +12,8 @@
 * 유의사항 : README.md(설명용 파일)에서 데이터 현황 항목은 늘 맨 밑에 두기 
   (업데이트일자 자동업데이트를 위함)
 
-* 데이터 현황  *  2024-06-12업데이트 : 한국광해광업공단_광종별 소비현황
+* 데이터 현황
+  *  2024-06-12업데이트 : 한국광해광업공단_광종별 소비현황
 https://raw.githubusercontent.com/KR9268/db_datagokr/main/komir_consume.csv
   *  2024-06-12업데이트 : 한국광해광업공단_광종별_국가별_생산량
 https://raw.githubusercontent.com/KR9268/db_datagokr/main/komir_product_country.csv
