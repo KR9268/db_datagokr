@@ -11,10 +11,10 @@
 
 * 유의사항 : README.md(설명용 파일)에서 데이터 현황 항목은 늘 맨 밑에 두기 
   (업데이트일자 자동업데이트를 위함)
-  
+
 * 데이터 현황(수동저장건)
   * 2024-06-18업데이트 : BDI(Baltic Dry Index)
-  https://raw.githubusercontent.com/KR9268/db_datagokr/main/Baltic Dry Index Historical Data.csv
+  https://raw.githubusercontent.com/KR9268/db_datagokr/main/Baltic_Dry_Index_Historical_Data.csv
   * 2024-06-20업데이트 : USCOMTRADE(HSCODE282540,283324)
   https://raw.githubusercontent.com/KR9268/db_datagokr/main/282540,283324_merged.csv
 
