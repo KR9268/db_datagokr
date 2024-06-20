@@ -1,0 +1,492 @@
+광종,국가,단위,매장량
+ANTIMONY,United States,metric tons,60000
+ANTIMONY,Australia,metric tons,140000
+ANTIMONY,Bolivia,metric tons,310000
+ANTIMONY,Burma,metric tons,140000
+ANTIMONY,Canada,metric tons,78000
+ANTIMONY,China,metric tons,640000
+ANTIMONY,Kyrgyzstan,metric tons,260000
+ANTIMONY,Mexico,metric tons,18000
+ANTIMONY,Pakistan,metric tons,26000
+ANTIMONY,Russia (recoverable),metric tons,350000
+ANTIMONY,Tajikistan,metric tons,50000
+ANTIMONY,Turkey,metric tons,99000
+ANTIMONY,World total (rounded),metric tons,2000000
+ASBESTOS,Brazil,metric tons,11000000
+ASBESTOS,China,metric tons,18000000
+ASBESTOS,Russia,metric tons,110000000
+BARITE,China,thousand metric tons,92000
+BARITE,India,thousand metric tons,51000
+BARITE,Iran,thousand metric tons,38000
+BARITE,Kazakhstan,thousand metric tons,85000
+BARITE,Russia,thousand metric tons,12000
+BAUXITE,United States,thousand metric dry tons,20000
+BAUXITE,Australia,thousand metric dry tons,3500000
+BAUXITE,Brazil,thousand metric dry tons,2700000
+BAUXITE,China,thousand metric dry tons,710000
+BAUXITE,Guinea,thousand metric dry tons,7400000
+BAUXITE,India,thousand metric dry tons,660000
+BAUXITE,Indonesia,thousand metric dry tons,1000000
+BAUXITE,Jamaica,thousand metric dry tons,2000000
+BAUXITE,Kazakhstan,thousand metric dry tons,160000
+BAUXITE,Russia,thousand metric dry tons,480000
+BAUXITE,Saudi Arabia,thousand metric dry tons,180000
+BAUXITE,Turkey,thousand metric dry tons,63000
+BAUXITE,Vietnam,thousand metric dry tons,5800000
+BAUXITE,Other countries,thousand metric dry tons,5100000
+BAUXITE,World total (rounded),thousand metric dry tons,30000000
+BORON,United States,thousand metric tons,48000
+BORON,"Chile, ulexite",thousand metric tons,35000
+BORON,"China, boric oxide equivalent",thousand metric tons,20000
+BORON,"Peru, crude borates",thousand metric tons,4000
+BORON,"Russia, datolite ore",thousand metric tons,40000
+BORON,"Turkey, refined borates",thousand metric tons,950000
+BROMINE,United States,metric tons,11000000
+BROMINE,Azerbaijan,metric tons,300000
+CHROMIUM,United States,thousand metric tons,630
+CHROMIUM,Finland,thousand metric tons,8300
+CHROMIUM,India,thousand metric tons,79000
+CHROMIUM,Kazakhstan,thousand metric tons,230000
+CHROMIUM,South Africa,thousand metric tons,200000
+CHROMIUM,Turkey,thousand metric tons,27000
+CHROMIUM,World total (rounded),thousand metric tons,560000
+COBALT,United States,metric tons,69000
+COBALT,Australia,metric tons,1700000
+COBALT,Canada,metric tons,230000
+COBALT,Congo (Kinshasa),metric tons,6000000
+COBALT,Cuba,metric tons,500000
+COBALT,Indonesia,metric tons,500000
+COBALT,Madagascar,metric tons,100000
+COBALT,Papua New Guinea,metric tons,49000
+COBALT,Philippines,metric tons,260000
+COBALT,Russia,metric tons,250000
+COBALT,Turkey,metric tons,91000
+COBALT,Other countries,metric tons,780000
+COBALT,World total (rounded),metric tons,11000000
+COPPER,United States,thousand metric tons,50000
+COPPER,Australia,thousand metric tons,100000
+COPPER,Canada,thousand metric tons,7600
+COPPER,Chile,thousand metric tons,190000
+COPPER,China,thousand metric tons,41000
+COPPER,Congo (Kinshasa),thousand metric tons,80000
+COPPER,Indonesia,thousand metric tons,24000
+COPPER,Kazakhstan,thousand metric tons,20000
+COPPER,Mexico,thousand metric tons,53000
+COPPER,Peru,thousand metric tons,120000
+COPPER,Poland,thousand metric tons,34000
+COPPER,Russia,thousand metric tons,80000
+COPPER,Zambia,thousand metric tons,21000
+COPPER,Other countries,thousand metric tons,180000
+COPPER,World total (rounded),thousand metric tons,1000000
+DIAMOND (INDUSTRIAL),Angola,million carats,150
+DIAMOND (INDUSTRIAL),Botswana,million carats,280
+DIAMOND (INDUSTRIAL),Congo (Kinshasa),million carats,150
+DIAMOND (INDUSTRIAL),Russia,million carats,860
+DIAMOND (INDUSTRIAL),South Africa,million carats,95
+DIAMOND (INDUSTRIAL),Other countries,million carats,120
+DIAMOND (INDUSTRIAL),World total (rounded),million carats,1700
+DIATOMITE,United States,thousand metric tons,250000
+DIATOMITE,China,thousand metric tons,170000
+DIATOMITE,Spain,thousand metric tons,57000
+DIATOMITE,Turkey,thousand metric tons,44000
+FELDSPAR AND NEPHELINE SYENITE,"Brazil (beneficiated, marketable)",thousand metric tons,150000
+FELDSPAR AND NEPHELINE SYENITE,China,thousand metric tons,730000
+FELDSPAR AND NEPHELINE SYENITE,Czechia,thousand metric tons,54000
+FELDSPAR AND NEPHELINE SYENITE,India,thousand metric tons,320000
+FELDSPAR AND NEPHELINE SYENITE,Iran,thousand metric tons,95000
+FELDSPAR AND NEPHELINE SYENITE,"Korea, Republic of",thousand metric tons,180000
+FELDSPAR AND NEPHELINE SYENITE,Thailand,thousand metric tons,45000
+FELDSPAR AND NEPHELINE SYENITE,Turkey,thousand metric tons,720000
+FLUORSPAR,China,thousand metric tons,67000
+FLUORSPAR,Iran,thousand metric tons,4500
+FLUORSPAR,Mexico,thousand metric tons,68000
+FLUORSPAR,Mongolia,thousand metric tons,34000
+FLUORSPAR,South Africa,thousand metric tons,41000
+FLUORSPAR,Spain,thousand metric tons,15000
+FLUORSPAR,Vietnam,thousand metric tons,3400
+FLUORSPAR,Other countries,thousand metric tons,50000
+FLUORSPAR,World total (rounded),thousand metric tons,280000
+GARNET (INDUSTRIAL),United States,metric tons,5000000
+GARNET (INDUSTRIAL),China,metric tons,37000000
+GARNET (INDUSTRIAL),India,metric tons,8600000
+GARNET (INDUSTRIAL),South Africa,metric tons,320000
+GOLD,United States,metric tons,3000
+GOLD,Australia,metric tons,12000
+GOLD,Brazil,metric tons,2400
+GOLD,Canada,metric tons,2300
+GOLD,China,metric tons,3000
+GOLD,Ghana,metric tons,1000
+GOLD,Indonesia,metric tons,2600
+GOLD,Kazakhstan,metric tons,1000
+GOLD,Mali,metric tons,800
+GOLD,Mexico,metric tons,1400
+GOLD,Tanzania,metric tons,420
+GOLD,Peru,metric tons,2300
+GOLD,Russia,metric tons,11100
+GOLD,South Africa,metric tons,5000
+GOLD,Uzbekistan,metric tons,1800
+GOLD,Other countries,metric tons,9200
+GOLD,World total (rounded),metric tons,59000
+GRAPHITE (NATURAL),Brazil,metric tons,74000000
+GRAPHITE (NATURAL),Canada,metric tons,5700000
+GRAPHITE (NATURAL),China,metric tons,78000000
+GRAPHITE (NATURAL),India,metric tons,8600000
+GRAPHITE (NATURAL),"Korea, North",metric tons,2000000
+GRAPHITE (NATURAL),"Korea, Republic of",metric tons,1800000
+GRAPHITE (NATURAL),Madagascar,metric tons,24000000
+GRAPHITE (NATURAL),Mexico,metric tons,3100000
+GRAPHITE (NATURAL),Mozambique,metric tons,25000000
+GRAPHITE (NATURAL),Norway,metric tons,600000
+GRAPHITE (NATURAL),Russia,metric tons,14000000
+GRAPHITE (NATURAL),Sri Lanka,metric tons,1500000
+GRAPHITE (NATURAL),Tanzania,metric tons,18000000
+GRAPHITE (NATURAL),Turkey,metric tons,6900000
+GRAPHITE (NATURAL),World total (rounded),metric tons,280000000
+GYPSUM,United States,thousand metric tons,700000
+GYPSUM,Brazil,thousand metric tons,450000
+GYPSUM,Canada,thousand metric tons,450000
+GYPSUM,China,thousand metric tons,2100000
+GYPSUM,France,thousand metric tons,350000
+GYPSUM,India,thousand metric tons,37000
+GYPSUM,Iran,thousand metric tons,900000
+GYPSUM,Pakistan,thousand metric tons,760000
+GYPSUM,Thailand,thousand metric tons,910000
+GYPSUM,Turkey,thousand metric tons,200000
+HELIUM,United States (extracted from natural gas),million cubic meters,8500
+HELIUM,United States (from Cliffside Field),million cubic meters,52
+HELIUM,Algeria,million cubic meters,1800
+HELIUM,Poland,million cubic meters,24
+HELIUM,Russia,million cubic meters,1700
+IODINE,United States,metric tons,250000
+IODINE,Azerbaijan,metric tons,170000
+IODINE,Chile,metric tons,610000
+IODINE,Iran,metric tons,40000
+IODINE,Japan,metric tons,4900000
+IODINE,Russia,metric tons,120000
+IODINE,Turkmenistan,metric tons,70000
+IODINE,World total (rounded),metric tons,6200000
+IRON ORE(crude ore),United States,million metric tons,3100
+IRON ORE(crude ore),Australia,million metric tons,58000
+IRON ORE(crude ore),Brazil,million metric tons,34000
+IRON ORE(crude ore),Canada,million metric tons,6000
+IRON ORE(crude ore),China,million metric tons,20000
+IRON ORE(crude ore),India,million metric tons,5500
+IRON ORE(crude ore),Iran,million metric tons,3300
+IRON ORE(crude ore),Kazakhstan,million metric tons,2500
+IRON ORE(crude ore),Peru,million metric tons,2600
+IRON ORE(crude ore),Russia,million metric tons,29000
+IRON ORE(crude ore),South Africa,million metric tons,990
+IRON ORE(crude ore),Sweden,million metric tons,1300
+IRON ORE(crude ore),Turkey,million metric tons,152
+IRON ORE(crude ore),Ukraine,million metric tons,6500
+IRON ORE(crude ore),Other countries,million metric tons,18000
+IRON ORE(crude ore),World total (rounded),million metric tons,190000
+IRON ORE(iron content),United States,million metric tons,1300
+IRON ORE(iron content),Australia,million metric tons,27000
+IRON ORE(iron content),Brazil,million metric tons,15000
+IRON ORE(iron content),Canada,million metric tons,2300
+IRON ORE(iron content),China,million metric tons,6900
+IRON ORE(iron content),India,million metric tons,3400
+IRON ORE(iron content),Iran,million metric tons,1500
+IRON ORE(iron content),Kazakhstan,million metric tons,900
+IRON ORE(iron content),Peru,million metric tons,1200
+IRON ORE(iron content),Russia,million metric tons,14000
+IRON ORE(iron content),South Africa,million metric tons,620
+IRON ORE(iron content),Sweden,million metric tons,600
+IRON ORE(iron content),Turkey,million metric tons,99
+IRON ORE(iron content),Ukraine,million metric tons,2300
+IRON ORE(iron content),Other countries,million metric tons,9500
+IRON ORE(iron content),World total (rounded),million metric tons,87000
+IRON OXIDE PIGMENTS,India (ocher),metric tons,37000000
+KYANITE AND RELATED MINERALS,"China (andalusite, crude ore)",metric tons,5000000
+KYANITE AND RELATED MINERALS,India (kyanite and sillimanite),metric tons,7200000
+LEAD,United States,thousand metric tons,4600
+LEAD,Australia,thousand metric tons,35000
+LEAD,Bolivia,thousand metric tons,1600
+LEAD,China,thousand metric tons,20000
+LEAD,India,thousand metric tons,1900
+LEAD,Iran,thousand metric tons,2000
+LEAD,Mexico,thousand metric tons,5600
+LEAD,Peru,thousand metric tons,5000
+LEAD,Russia,thousand metric tons,8700
+LEAD,Sweden,thousand metric tons,1700
+LEAD,Turkey,thousand metric tons,1600
+LEAD,Other countries,thousand metric tons,5900
+LEAD,World total (rounded),thousand metric tons,95000
+LITHIUM,United States,metric tons,1100000
+LITHIUM,Argentina,metric tons,3600000
+LITHIUM,Australia,metric tons,6200000
+LITHIUM,Brazil,metric tons,390000
+LITHIUM,Canada,metric tons,930000
+LITHIUM,Chile,metric tons,9300000
+LITHIUM,China,metric tons,3000000
+LITHIUM,Portugal,metric tons,60000
+LITHIUM,Zimbabwe,metric tons,310000
+LITHIUM,Other countries,metric tons,2800000
+LITHIUM,World total (rounded),metric tons,28000000
+MAGNESIUM COMPOUNDS,United States,thousand metric tons,35000
+MAGNESIUM COMPOUNDS,Australia,thousand metric tons,280000
+MAGNESIUM COMPOUNDS,Austria,thousand metric tons,49000
+MAGNESIUM COMPOUNDS,Brazil,thousand metric tons,200000
+MAGNESIUM COMPOUNDS,China,thousand metric tons,580000
+MAGNESIUM COMPOUNDS,Greece,thousand metric tons,280000
+MAGNESIUM COMPOUNDS,India,thousand metric tons,66000
+MAGNESIUM COMPOUNDS,Iran,thousand metric tons,10000
+MAGNESIUM COMPOUNDS,Russia,thousand metric tons,2300000
+MAGNESIUM COMPOUNDS,Saudi Arabia,thousand metric tons,2800
+MAGNESIUM COMPOUNDS,Slovakia,thousand metric tons,1200000
+MAGNESIUM COMPOUNDS,Spain,thousand metric tons,35000
+MAGNESIUM COMPOUNDS,Turkey,thousand metric tons,110000
+MAGNESIUM COMPOUNDS,Other countries,thousand metric tons,2500000
+MAGNESIUM COMPOUNDS,World total (rounded),thousand metric tons,7700000
+MANGANESE,Australia,thousand metric tons,500000
+MANGANESE,Brazil,thousand metric tons,270000
+MANGANESE,China,thousand metric tons,280000
+MANGANESE,Gabon,thousand metric tons,61000
+MANGANESE,Ghana,thousand metric tons,13000
+MANGANESE,India,thousand metric tons,34000
+MANGANESE,"Kazakhstan, concentrate",thousand metric tons,5000
+MANGANESE,Mexico,thousand metric tons,5000
+MANGANESE,South Africa,thousand metric tons,600000
+MANGANESE,"Ukraine, concentrate",thousand metric tons,140000
+MANGANESE,World total (rounded),thousand metric tons,1900000
+MICA (NATURAL),China,metric tons,1175000
+MICA (NATURAL),India,metric tons,110000
+MICA (NATURAL),"Korea, Republic of",metric tons,11000000
+MICA (NATURAL),Turkey,metric tons,620000
+MOLYBDENUM,United States,thousand metric tons,3500
+MOLYBDENUM,Argentina,thousand metric tons,100
+MOLYBDENUM,Armenia,thousand metric tons,150
+MOLYBDENUM,Australia,thousand metric tons,690
+MOLYBDENUM,Canada,thousand metric tons,72
+MOLYBDENUM,Chile,thousand metric tons,1400
+MOLYBDENUM,China,thousand metric tons,5800
+MOLYBDENUM,Iran,thousand metric tons,43
+MOLYBDENUM,"Korea, Republic of",thousand metric tons,8
+MOLYBDENUM,Mexico,thousand metric tons,130
+MOLYBDENUM,Peru,thousand metric tons,1500
+MOLYBDENUM,Russia,thousand metric tons,1100
+MOLYBDENUM,Turkey,thousand metric tons,52
+MOLYBDENUM,Uzbekistan,thousand metric tons,21
+MOLYBDENUM,World total (rounded),thousand metric tons,15000
+NICKEL,United States,metric tons,340000
+NICKEL,Australia,metric tons,24000000
+NICKEL,Brazil,metric tons,16000000
+NICKEL,Canada,metric tons,2200000
+NICKEL,China,metric tons,4200000
+NICKEL,Indonesia,metric tons,55000000
+NICKEL,New Caledonia,metric tons,7100000
+NICKEL,Philippines,metric tons,4800000
+NICKEL,Russia,metric tons,8300000
+NICKEL,Other countries,metric tons,9100000
+NICKEL,World total (rounded),metric tons,130000000
+NIOBIUM (COLUMBIUM),United States,metric tons,210000
+NIOBIUM (COLUMBIUM),Brazil,metric tons,16000000
+NIOBIUM (COLUMBIUM),Canada,metric tons,1600000
+NIOBIUM (COLUMBIUM),World total (rounded),metric tons,17000000
+PEAT,United States,thousand metric tons,150000
+PEAT,Belarus,thousand metric tons,2600000
+PEAT,Canada,thousand metric tons,720000
+PEAT,Estonia,thousand metric tons,570000
+PEAT,Finland,thousand metric tons,6000000
+PEAT,Latvia,thousand metric tons,150000
+PEAT,Lithuania,thousand metric tons,210000
+PEAT,Russia,thousand metric tons,1000000
+PEAT,Other countriese,thousand metric tons,1400000
+PEAT,World total (rounded),thousand metric tons,13000000
+PERLITE,United States,thousand metric tons,50000
+PERLITE,China,thousand metric tons,32000
+PERLITE,Greece,thousand metric tons,180000
+PERLITE,Iran,thousand metric tons,15000
+PERLITE,Slovakia,thousand metric tons,30000
+PHOSPHATE ROCK,United States,thousand metric tons,1000000
+PHOSPHATE ROCK,Algeria,thousand metric tons,2200000
+PHOSPHATE ROCK,Australia,thousand metric tons,1100000
+PHOSPHATE ROCK,Brazil,thousand metric tons,1600000
+PHOSPHATE ROCK,China,thousand metric tons,3800000
+PHOSPHATE ROCK,Egypt,thousand metric tons,2800000
+PHOSPHATE ROCK,Finland,thousand metric tons,1000000
+PHOSPHATE ROCK,India,thousand metric tons,31000
+PHOSPHATE ROCK,Israel,thousand metric tons,60000
+PHOSPHATE ROCK,Jordan,thousand metric tons,1000000
+PHOSPHATE ROCK,Kazakhstan,thousand metric tons,260000
+PHOSPHATE ROCK,Mexico,thousand metric tons,30000
+PHOSPHATE ROCK,Morocco,thousand metric tons,50000000
+PHOSPHATE ROCK,Peru,thousand metric tons,210000
+PHOSPHATE ROCK,Russia,thousand metric tons,2400000
+PHOSPHATE ROCK,Saudi Arabia,thousand metric tons,1400000
+PHOSPHATE ROCK,Senegal,thousand metric tons,50000
+PHOSPHATE ROCK,South Africa,thousand metric tons,1500000
+PHOSPHATE ROCK,Togo,thousand metric tons,30000
+PHOSPHATE ROCK,Tunisia,thousand metric tons,2500000
+PHOSPHATE ROCK,Turkey,thousand metric tons,71000
+PHOSPHATE ROCK,Uzbekistan,thousand metric tons,100000
+PHOSPHATE ROCK,Vietnam,thousand metric tons,30000
+PHOSPHATE ROCK,Other countries,thousand metric tons,800000
+PHOSPHATE ROCK,World total (rounded),thousand metric tons,74000000
+PLATINUM-GROUP METALS,United States,kilograms,820000
+PLATINUM-GROUP METALS,Canada,kilograms,310000
+PLATINUM-GROUP METALS,Russia,kilograms,5500000
+PLATINUM-GROUP METALS,South Africa,kilograms,63000000
+PLATINUM-GROUP METALS,Zimbabwe,kilograms,1200000
+PLATINUM-GROUP METALS,World total (rounded),kilograms,71000000
+POTASH(k2O),United States,thousand metric tons,220000
+POTASH(k2O),Belarus,thousand metric tons,750000
+POTASH(k2O),Brazil,thousand metric tons,2300
+POTASH(k2O),Canada,thousand metric tons,1100000
+POTASH(k2O),Chile,thousand metric tons,100000
+POTASH(k2O),China,thousand metric tons,180000
+POTASH(k2O),Germany,thousand metric tons,150000
+POTASH(k2O),Laos,thousand metric tons,75000
+POTASH(k2O),Russia,thousand metric tons,650000
+POTASH(k2O),Spain,thousand metric tons,68000
+POTASH(k2O),Other countries,thousand metric tons,300000
+POTASH(k2O),World total (rounded),thousand metric tons,3600000
+POTASH(ore),United States,thousand metric tons,970000
+POTASH(ore),Belarus,thousand metric tons,3300000
+POTASH(ore),Brazil,thousand metric tons,10000
+POTASH(ore),Canada,thousand metric tons,4500000
+POTASH(ore),Laos,thousand metric tons,1000000
+POTASH(ore),Other countries,thousand metric tons,1500000
+POTASH(ore),World total (rounded),thousand metric tons,11000000
+RARE EARTHS,United States,metric tons of rare-earth-oxide (REO) equivalent,1800000
+RARE EARTHS,Australia,metric tons of rare-earth-oxide (REO) equivalent,5700000
+RARE EARTHS,Brazil,metric tons of rare-earth-oxide (REO) equivalent,21000000
+RARE EARTHS,Canada,metric tons of rare-earth-oxide (REO) equivalent,830000
+RARE EARTHS,China,metric tons of rare-earth-oxide (REO) equivalent,44000000
+RARE EARTHS,Greenland,metric tons of rare-earth-oxide (REO) equivalent,1500000
+RARE EARTHS,India,metric tons of rare-earth-oxide (REO) equivalent,6900000
+RARE EARTHS,Russia,metric tons of rare-earth-oxide (REO) equivalent,10000000
+RARE EARTHS,South Africa,metric tons of rare-earth-oxide (REO) equivalent,790000
+RARE EARTHS,Tanzania,metric tons of rare-earth-oxide (REO) equivalent,890000
+RARE EARTHS,Vietnam,metric tons of rare-earth-oxide (REO) equivalent,22000000
+RARE EARTHS,Other countries,metric tons of rare-earth-oxide (REO) equivalent,280000
+RARE EARTHS,World total (rounded),metric tons of rare-earth-oxide (REO) equivalent,110000000
+RHENIUM,United States,kilograms,400000
+RHENIUM,Armenia,kilograms,95000
+RHENIUM,Chile,kilograms,1300000
+RHENIUM,China,kilograms,19200
+RHENIUM,Kazakhstan,kilograms,190000
+RHENIUM,Russia,kilograms,310000
+SELENIUM,United States,metric tons,11000
+SELENIUM,Canada,metric tons,6000
+SELENIUM,China,metric tons,5000
+SELENIUM,Finland,metric tons,300
+SELENIUM,India,metric tons,500
+SELENIUM,Peru,metric tons,1900
+SELENIUM,Poland,metric tons,3000
+SELENIUM,Russia,metric tons,26000
+SELENIUM,Sweden,metric tons,500
+SELENIUM,Other countries,metric tons,24000
+SELENIUM,World total (rounded),metric tons,95000
+SILVER,United States,metric tons,23000
+SILVER,Argentina,metric tons,6500
+SILVER,Australia,metric tons,94000
+SILVER,Bolivia,metric tons,22000
+SILVER,Chile,metric tons,26000
+SILVER,China,metric tons,72000
+SILVER,India,metric tons,8000
+SILVER,Mexico,metric tons,37000
+SILVER,Peru,metric tons,110000
+SILVER,Poland,metric tons,170000
+SILVER,Russia,metric tons,92000
+SILVER,Other countries,metric tons,57000
+SILVER,World total (rounded),metric tons,720000
+SODA ASH,United States,thousand metric tons,23000000
+SODA ASH,Botswana,thousand metric tons,16000
+SODA ASH,Ethiopia,thousand metric tons,400000
+SODA ASH,Kenya,thousand metric tons,7000
+SODA ASH,Turkey,thousand metric tons,840000
+SODA ASH,Other countries,thousand metric tons,280000
+SODA ASH,"World total, natural (rounded)",thousand metric tons,25000000
+TALC AND PYROPHYLLITE,United States (crude),thousand metric tons,140000
+TALC AND PYROPHYLLITE,Brazil (crude and beneficiated),thousand metric tons,45000
+TALC AND PYROPHYLLITE,China (unspecified minerals),thousand metric tons,72000
+TALC AND PYROPHYLLITE,India,thousand metric tons,110000
+TALC AND PYROPHYLLITE,Japan,thousand metric tons,100000
+TALC AND PYROPHYLLITE,"Korea, Republic of",thousand metric tons,81000
+TALC AND PYROPHYLLITE,Turkey,thousand metric tons,15000
+TANTALUM,Australia,metric tons,110000
+TANTALUM,Brazil,metric tons,40000
+TELLURIUM,China,metric tons,240000
+TIN,Australia,metric tons,620000
+TIN,Bolivia,metric tons,400000
+TIN,Brazil,metric tons,420000
+TIN,Burma,metric tons,700000
+TIN,China,metric tons,1100000
+TIN,Congo (Kinshasa),metric tons,120000
+TIN,Peru,metric tons,130000
+TIN,Russia,metric tons,460000
+TIN,Vietname,metric tons,11000
+TIN,Other countries,metric tons,310000
+TIN,World total (rounded),metric tons,4300000
+TITANIUM MINERAL CONCENTRATES(limenite),United States,thousand metric tons,2000
+TITANIUM MINERAL CONCENTRATES(limenite),Australia,thousand metric tons,180000
+TITANIUM MINERAL CONCENTRATES(limenite),Brazil,thousand metric tons,43000
+TITANIUM MINERAL CONCENTRATES(limenite),Canada,thousand metric tons,52000
+TITANIUM MINERAL CONCENTRATES(limenite),China,thousand metric tons,210000
+TITANIUM MINERAL CONCENTRATES(limenite),India,thousand metric tons,85000
+TITANIUM MINERAL CONCENTRATES(limenite),Kenya,thousand metric tons,130
+TITANIUM MINERAL CONCENTRATES(limenite),Madagascar,thousand metric tons,27000
+TITANIUM MINERAL CONCENTRATES(limenite),Mozambique,thousand metric tons,22000
+TITANIUM MINERAL CONCENTRATES(limenite),Norway,thousand metric tons,37000
+TITANIUM MINERAL CONCENTRATES(limenite),South Africa,thousand metric tons,28000
+TITANIUM MINERAL CONCENTRATES(limenite),Ukraine,thousand metric tons,5900
+TITANIUM MINERAL CONCENTRATES(limenite),Vietnam,thousand metric tons,1600
+TITANIUM MINERAL CONCENTRATES(limenite),Other countries,thousand metric tons,1200
+TITANIUM MINERAL CONCENTRATES(limenite),"World total (ilmenite, rounded)",thousand metric tons,690000
+TITANIUM MINERAL CONCENTRATES(rutile),Australia,thousand metric tons,35000
+TITANIUM MINERAL CONCENTRATES(rutile),India,thousand metric tons,7400
+TITANIUM MINERAL CONCENTRATES(rutile),Kenya,thousand metric tons,70
+TITANIUM MINERAL CONCENTRATES(rutile),Madagascar,thousand metric tons,520
+TITANIUM MINERAL CONCENTRATES(rutile),Mozambique,thousand metric tons,720
+TITANIUM MINERAL CONCENTRATES(rutile),Sierra Leone,thousand metric tons,2900
+TITANIUM MINERAL CONCENTRATES(rutile),South Africa,thousand metric tons,6100
+TITANIUM MINERAL CONCENTRATES(rutile),Ukraine,thousand metric tons,2500
+TITANIUM MINERAL CONCENTRATES(rutile),"World total (rutile, rounded)",thousand metric tons,750000
+TUNGSTEN,Australia,metric tons,570000
+TUNGSTEN,Austria,metric tons,10000
+TUNGSTEN,China,metric tons,2300000
+TUNGSTEN,"Korea, North",metric tons,29000
+TUNGSTEN,Portugal,metric tons,4000
+TUNGSTEN,Russia,metric tons,400000
+TUNGSTEN,Spain,metric tons,66000
+TUNGSTEN,Vietnam,metric tons,74000
+TUNGSTEN,Other countries,metric tons,950000
+TUNGSTEN,World total (rounded),metric tons,4400000
+VANADIUM,United States,metric tons,45
+VANADIUM,Australia,metric tons,8500
+VANADIUM,Brazil,metric tons,120
+VANADIUM,China,metric tons,4400
+VANADIUM,Russia,metric tons,5000
+VANADIUM,South Africa,metric tons,750
+VANADIUM,World total (rounded),metric tons,19000
+VERMICULITE,United States,thousand metric tons,25000
+VERMICULITE,Brazil,thousand metric tons,6600
+VERMICULITE,China,thousand metric tons,2900
+VERMICULITE,India,thousand metric tons,1600
+VERMICULITE,South Africa,thousand metric tons,14000
+VERMICULITE,Turkey,thousand metric tons,11000
+ZINC,United States,thousand metric tons,6600
+ZINC,Australia,thousand metric tons,66000
+ZINC,China,thousand metric tons,44000
+ZINC,India,thousand metric tons,7400
+ZINC,Kazakhstan,thousand metric tons,6700
+ZINC,Mexico,thousand metric tons,14000
+ZINC,Peru,thousand metric tons,21000
+ZINC,Russia,thousand metric tons,25000
+ZINC,South Africa,thousand metric tons,6200
+ZINC,Sweden,thousand metric tons,4100
+ZINC,Other countries,thousand metric tons,25000
+ZINC,World total (rounded),thousand metric tons,220000
+ZIRCONIUM AND HAFNIUM,United States,metric tons,500
+ZIRCONIUM AND HAFNIUM,Australia,metric tons,55000
+ZIRCONIUM AND HAFNIUM,China,metric tons,72
+ZIRCONIUM AND HAFNIUM,Kenya,metric tons,18
+ZIRCONIUM AND HAFNIUM,Madagascar,metric tons,2300
+ZIRCONIUM AND HAFNIUM,Mozambique,metric tons,1500
+ZIRCONIUM AND HAFNIUM,Senegal,metric tons,2600
+ZIRCONIUM AND HAFNIUM,Sierra Leone,metric tons,290
+ZIRCONIUM AND HAFNIUM,South Africa,metric tons,5600
+ZIRCONIUM AND HAFNIUM,Other countries,metric tons,5700
+ZIRCONIUM AND HAFNIUM,World total (rounded),metric tons,74000
