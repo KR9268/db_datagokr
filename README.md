@@ -12,7 +12,19 @@
 * 유의사항 : README.md(설명용 파일)에서 데이터 현황 항목은 늘 맨 밑에 두기 
   (업데이트일자 자동업데이트를 위함)
 
-* 데이터 현황(수동저장건)
+* 수동저장데이터
+  * BDI(Baltic Dry Index)
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/Baltic_Dry_Index_Historical_Data.csv
+  * UN Comtrade (산화코발트(282200), 황산코발트(283329)) **since 2019**
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/282200,283329_merged.csv
+  * UN Comtrade (산화/수산화리튬(282520), 탄산리튬(283691)) **since 2019**
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/282520,283691_merged.csv
+  * UN Comtrade (산화/수산화니켈(282540), 황산니켈(283324)) **since 2011**
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/282540,283324_merged.csv
+  * UN Comtrade (이산화망간(850610)) **since 2019**
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/850610_merged.csv
+
+* 데이터 현황
 
   *  2024-06-23업데이트 : 한국광해광업공단_광종별 소비현황
 https://raw.githubusercontent.com/KR9268/db_datagokr/main/komir_consume.csv
