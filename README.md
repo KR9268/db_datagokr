@@ -15,14 +15,27 @@
 * 수동저장데이터
   * BDI(Baltic Dry Index)
 https://raw.githubusercontent.com/KR9268/db_datagokr/main/Baltic_Dry_Index_Historical_Data.csv
-  * UN Comtrade (산화코발트(282200), 황산코발트(283329)) **since 2019**
-https://raw.githubusercontent.com/KR9268/db_datagokr/main/282200,283329_merged.csv
-  * UN Comtrade (산화/수산화리튬(282520), 탄산리튬(283691)) **since 2019**
-https://raw.githubusercontent.com/KR9268/db_datagokr/main/282520,283691_merged.csv
+
+  * UN Comtrade (산화코발트(282200), 황산코발트(283329)) **since 2011**
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/282200,283329_merged(since2011).csv
+  * UN Comtrade (산화코발트(282200), 황산코발트(283329)) **since 2021**
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/282200,283329_merged(since2021).csv
+
+  * UN Comtrade (산화/수산화리튬(282520), 탄산리튬(283691)) **since 2011**
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/282520,283691_merged(since2011).csv
+  * UN Comtrade (산화/수산화리튬(282520), 탄산리튬(283691)) **since 2021**
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/282520,283691_merged(since2021).csv
+
   * UN Comtrade (산화/수산화니켈(282540), 황산니켈(283324)) **since 2011**
-https://raw.githubusercontent.com/KR9268/db_datagokr/main/282540,283324_merged.csv
-  * UN Comtrade (이산화망간(850610)) **since 2019**
-https://raw.githubusercontent.com/KR9268/db_datagokr/main/850610_merged.csv
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/282540,283324_merged(since2011).csv
+  * UN Comtrade (산화/수산화니켈(282540), 황산니켈(283324)) **since 2021**
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/282540,283324_merged(since2021).csv
+
+  * UN Comtrade (이산화망간(850610)) **since 2011**
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/850610_merged(since2011).csv
+  * UN Comtrade (이산화망간(850610)) **since 2021**
+https://raw.githubusercontent.com/KR9268/db_datagokr/main/850610_merged(since2021).csv
+
 
 * 데이터 현황
 
